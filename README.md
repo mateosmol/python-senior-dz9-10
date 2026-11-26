@@ -1,2 +1,3 @@
-# python-senior-dz9-10
+# **<span style="font-family: 'Times New Roman', serif;">ДОМАШНЄ ЗАВДАННЯ УРОКІВ 9-10</span>**
 
+### Я думаю ви вже розумієте в якій папці що знаходиться
